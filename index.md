@@ -1,5 +1,7 @@
 theme: midnight
+
 title : Welcome to CarterReames' homepage!
+
 description: currently a github page for CSHU250. Site is a WIP.
 
 
